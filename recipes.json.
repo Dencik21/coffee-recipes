@@ -1,0 +1,46 @@
+{
+  "drinks": [
+    {
+      "id": "1",
+      "name": "Iced Latte",
+      "ingredients": ["30 ml Espresso", "150 ml kalte Milch", "Eis", "optional: Sirup (Vanille oder Karamell)"],
+      "instructions": "1. Espresso zubereiten und kalt stellen.\n2. Ein Glas mit Eis füllen.\n3. Den Espresso einfüllen, dann langsam die kalte Milch dazugießen.\n4. Umrühren und mit einem Strohhalm servieren. Für den Geschmack Sirup hinzufügen!",
+      "image": "https://imgur.com/krLcq1j.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Flat White",
+      "ingredients": ["60 ml Espresso (Doppelschuss)", "150 мл warme Milch", "eine dünne Schicht Milchschaum"],
+      "instructions": "1.  Einen doppelten Espresso in einer Tasse zubereiten. 2. Die Milch aufschäumen, bis sie samtig weich ist (kein dicker Schaum). 3. Die Milch langsam in den Espresso gießen, sodass ein Latte-Art-Muster entsteht. 4. Mit einer dünnen Schaumschicht abschließen. Genießen Sie den cremigen Geschmack!",
+      "image": "https://imgur.com/4VaFhT0.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Raf",
+      "ingredients": [„30 ml Espresso“, „150 ml Sahne (10-11%)“, "5-10 г Vanillezucker"],
+      "instructions": "1. Espresso zubereiten.\n2. Sahne in einen Krug geben und Vanillezucker hinzufügen.\n3. Espresso einfüllen und mit Dampf (oder einem Mixer) cremig schlagen.\n4. In eine Tasse geben und heiß servieren. Ein samtig-weiches Getränk!",
+      "image": "https://imgur.com/fiIU38o.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Matcha Latte",
+      "ingredients": ["1 TL Matcha (Pulver)", "150 ml warme Milch", "optional: Honig oder Zucker"],
+      "instructions": "1. Matcha in eine Tasse sieben.\n2. Etwas heißes (nicht kochendes) Wasser hinzufügen und verrühren, bis eine Paste entsteht.\n3. Milch erhitzen und schaumig schlagen.\n4. Milch zum Matcha geben, umrühren und Matcha darüberstreuen. Ein gesunder, grüner Energiekick!",
+      "image": "https://imgur.com/krLcq1j.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Cappuccino",
+      "ingredients": ["30 ml Espresso", "50 ml warme Milch", "50 ml Milchschaum"],
+      "instructions": "1. Espresso in einer Tasse zubereiten.\n2. Milch verquirlen, bis dicker Schaum entsteht (Milch und Schaum zu gleichen Teilen).\n3. Milch über den Espresso gießen, dann Schaum darüber geben.\n4. Mit Kakao oder Zimt bestreuen. Ein italienischer Kaffeeklassiker!",
+      "image": "https://imgur.com/fiIU38o.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Caramel Latte",
+      "ingredients": ["30 ml Espresso", "150 ml warme Milch", "15 ml Karamellsirup", "optional: Karamell-Topping"],
+      "instructions": "1. Espresso zubereiten und Karamellsirup hinzufügen.\n2. Milch leicht schaumig schlagen.\n3. Milch zum Espresso gießen.\n4. Mit Karamellsauce bedecken und mit Salz (für gesalzenes Karamell) bestreuen. Süß und gemütlich!",
+      "image": "https://imgur.com/krLcq1j.jpg"
+    }
+  ]
+}
