@@ -3,44 +3,160 @@
     {
       "id": "1",
       "name": "Iced Latte",
-      "ingredients": ["30 ml Espresso", "150 ml kalte Milch", "Eis", "optional: Sirup (Vanille oder Karamell)"],
-      "instructions": "1. Espresso zubereiten und kalt stellen.\n2. Ein Glas mit Eis füllen.\n3. Den Espresso einfüllen, dann langsam die kalte Milch dazugießen.\n4. Umrühren und mit einem Strohhalm servieren. Für den Geschmack Sirup hinzufügen!",
-      "image": "https://i.imgur.com/krLcq1j.jpg"
+      "ingredients": [
+        "30 ml Espresso",
+        "150 ml kalte Milch",
+        "Eiswürfel",
+        "optional: Vanille- oder Karamellsirup"
+      ],
+      "instructions": "1. Espresso zubereiten und abkühlen lassen.\n2. Ein hohes Glas mit Eiswürfeln füllen.\n3. Den Espresso über das Eis gießen.\n4. Die kalte Milch langsam dazugeben.\n5. Nach Belieben mit Sirup süßen und umrühren.",
+      "image": "https://imgur.com/LQasl33.jpg"
     },
     {
       "id": "2",
       "name": "Flat White",
-      "ingredients": ["60 ml Espresso (Doppelschuss)", "150 ml warme Milch", "eine dünne Schicht Milchschaum"],
-      "instructions": "1. Einen doppelten Espresso in einer Tasse zubereiten.\n2. Die Milch aufschäumen, bis sie samtig weich ist (kein dicker Schaum).\n3. Die Milch langsam in den Espresso gießen, sodass ein Latte-Art-Muster entsteht.\n4. Mit einer dünnen Schaumschicht abschließen. Genießen Sie den cremigen Geschmack!",
-      "image": "https://i.imgur.com/4VaFhT0.jpg"
+      "ingredients": [
+        "60 ml Espresso (Doppelschuss)",
+        "150 ml warme Milch",
+        "feiner Milchschaum"
+      ],
+      "instructions": "1. Einen doppelten Espresso in eine Tasse brühen.\n2. Milch erhitzen und fein samtig aufschäumen.\n3. Die Milch langsam in den Espresso gießen.\n4. Mit einer dünnen Schicht Schaum abschließen.\n5. Optional mit Latte-Art verzieren und sofort servieren.",
+      "image": "https://imgur.com/fpIEnhB.jpg"
     },
     {
       "id": "3",
       "name": "Raf",
-      "ingredients": ["30 ml Espresso", "150 ml Sahne (10-11%)", "5-10 g Vanillezucker"],
-      "instructions": "1. Espresso zubereiten.\n2. Sahne in einen Krug geben und Vanillezucker hinzufügen.\n3. Espresso einfüllen und mit Dampf (oder einem Mixer) cremig schlagen.\n4. In eine Tasse geben und heiß servieren. Ein samtig-weiches Getränk!",
-      "image": "https://i.imgur.com/fiIU38o.jpg"
+      "ingredients": [
+        "30 ml Espresso",
+        "150 ml Sahne (10–11 % Fett)",
+        "1 TL Vanillezucker"
+      ],
+      "instructions": "1. Espresso zubereiten.\n2. Sahne und Vanillezucker in einem Kännchen vermischen.\n3. Espresso hinzufügen und mit Dampfdüse oder Mixer aufschlagen.\n4. In eine Tasse füllen.\n5. Heiß servieren – cremig und aromatisch.",
+      "image": "https://imgur.com/1cHd8bT.jpg"
     },
     {
       "id": "4",
       "name": "Matcha Latte",
-      "ingredients": ["1 TL Matcha (Pulver)", "150 ml warme Milch", "optional: Honig oder Zucker"],
-      "instructions": "1. Matcha in eine Tasse sieben.\n2. Etwas heißes (nicht kochendes) Wasser hinzufügen und verrühren, bis eine Paste entsteht.\n3. Milch erhitzen und schaumig schlagen.\n4. Milch zum Matcha geben, umrühren und Matcha darüberstreuen. Ein gesunder, grüner Energiekick!",
-      "image": "https://i.imgur.com/krLcq1j.jpg"
+      "ingredients": [
+        "1 TL Matcha-Pulver",
+        "200 ml Milch",
+        "50 ml heißes Wasser (nicht kochend)",
+        "optional: Honig oder Zucker"
+      ],
+      "instructions": "1. Matcha in eine Schale sieben.\n2. Mit heißem Wasser aufgießen und schaumig rühren.\n3. Milch erhitzen und aufschäumen.\n4. Milch in den Matcha gießen.\n5. Nach Belieben süßen und sofort servieren.",
+      "image": "https://imgur.com/7KSXAuG.jpg"
     },
     {
       "id": "5",
       "name": "Cappuccino",
-      "ingredients": ["30 ml Espresso", "50 ml warme Milch", "50 ml Milchschaum"],
-      "instructions": "1. Espresso in einer Tasse zubereiten.\n2. Milch verquirlen, bis dicker Schaum entsteht (Milch und Schaum zu gleichen Teilen).\n3. Milch über den Espresso gießen, dann Schaum darüber geben.\n4. Mit Kakao oder Zimt bestreuen. Ein italienischer Kaffeeklassiker!",
-      "image": "https://i.imgur.com/fiIU38o.jpg"
+      "ingredients": [
+        "30 ml Espresso",
+        "50 ml heiße Milch",
+        "50 ml Milchschaum",
+        "optional: Kakaopulver"
+      ],
+      "instructions": "1. Espresso in einer Tasse zubereiten.\n2. Milch erhitzen und cremig aufschäumen.\n3. Milch über den Espresso gießen.\n4. Den Schaum darüberlöffeln.\n5. Mit Kakaopulver bestäuben und genießen.",
+      "image": "https://imgur.com/CBLBdCu.jpg"
     },
     {
       "id": "6",
       "name": "Caramel Latte",
-      "ingredients": ["30 ml Espresso", "150 ml warme Milch", "15 ml Karamellsirup", "optional: Karamell-Topping"],
-      "instructions": "1. Espresso zubereiten und Karamellsirup hinzufügen.\n2. Milch leicht schaumig schlagen.\n3. Milch zum Espresso gießen.\n4. Mit Karamellsauce bedecken und mit Salz (für gesalzenes Karamell) bestreuen. Süß und gemütlich!",
-      "image": "https://i.imgur.com/krLcq1j.jpg"
+      "ingredients": [
+        "30 ml Espresso",
+        "150 ml warme Milch",
+        "15 ml Karamellsirup",
+        "optional: Karamellsauce"
+      ],
+      "instructions": "1. Espresso zubereiten und in ein Glas geben.\n2. Karamellsirup dazugeben und umrühren.\n3. Milch erhitzen und aufschäumen.\n4. Milch in den Espresso gießen.\n5. Mit Karamellsauce verzieren.",
+      "image": "https://imgur.com/kAzS89d.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Latte-Kürbismus",
+      "ingredients": [
+        "30 ml Espresso",
+        "150 ml Milch",
+        "1 EL Kürbispüree",
+        "1 Prise Zimt",
+        "1 Prise Muskatnuss"
+      ],
+      "instructions": "1. Espresso zubereiten.\n2. Kürbispüree, Zimt und Muskatnuss in einem Topf mit Milch erhitzen.\n3. Die Mischung aufschäumen.\n4. In ein Glas füllen und Espresso hinzufügen.\n5. Mit etwas Zimt bestreuen – perfekt für den Herbst.",
+      "image": "https://imgur.com/9R48XBn.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Weihnachts-Zitrus",
+      "ingredients": [
+        "30 ml Espresso",
+        "150 ml Milch",
+        "etwas Orangenzeste",
+        "1 Prise Zimt",
+        "1 TL Honig"
+      ],
+      "instructions": "1. Espresso brühen.\n2. Milch erhitzen und mit Zimt und Orangenzeste aromatisieren.\n3. Milch in den Espresso gießen.\n4. Mit Honig süßen.\n5. Mit etwas Zimt bestreuen – winterlich und duftend.",
+      "image": "https://imgur.com/qBxVE25.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Himbeer-Latte",
+      "ingredients": [
+        "30 ml Espresso",
+        "150 ml Milch",
+        "20 ml Himbeersirup",
+        "2 frische Himbeeren",
+        "1 EL Frischkäse (für das Topping)"
+      ],
+      "instructions": "1. Espresso zubereiten.\n2. Milch mit Himbeersirup erhitzen und aufschäumen.\n3. Espresso in ein Glas gießen und Milch hinzufügen.\n4. Frischkäsetopping aufsetzen.\n5. Mit frischen Himbeeren dekorieren.",
+      "image": "https://imgur.com/pB0QWz8.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Weihnachts-Bumble",
+      "ingredients": [
+        "60 ml Espresso",
+        "100 ml Orangensaft",
+        "1 TL Honig",
+        "optional: Zimt oder Orangenscheibe"
+      ],
+      "instructions": "1. Espresso frisch brühen.\n2. Orangensaft leicht erwärmen.\n3. Honig einrühren, bis er sich löst.\n4. Espresso hinzufügen und vorsichtig umrühren.\n5. Mit Orangenscheibe und Zimt garnieren.",
+      "image": "https://imgur.com/9rODuIa.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Eisiger Schokotraum",
+      "ingredients": [
+        "30 ml Espresso",
+        "150 ml kalte Milch",
+        "1 EL gesalzene Karamellsauce",
+        "Eiswürfel",
+        "Schokokugeln zur Deko"
+      ],
+      "instructions": "1. Espresso zubereiten und abkühlen lassen.\n2. Milch und Karamellsauce vermischen.\n3. Ein Glas mit Eis füllen und Espresso hineingießen.\n4. Milchmischung hinzufügen.\n5. Mit Schokokugeln und Karamell verzieren.",
+      "image": "https://imgur.com/ryW2ehK.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Filterkaffee",
+      "ingredients": [
+        "20 g Kaffeebohnen (mittlerer Mahlgrad)",
+        "300 ml heißes Wasser",
+        "Papierfilter"
+      ],
+      "instructions": "1. Kaffeebohnen frisch mahlen.\n2. Filter und Kanne vorbereiten.\n3. Heißes Wasser langsam in kreisender Bewegung über das Kaffeepulver gießen.\n4. Kaffee durchlaufen lassen.\n5. Sofort servieren – pur und aromatisch.",
+      "image": "https://imgur.com/1ywl2zf.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Protein-Mokka Nuss",
+      "ingredients": [
+        "30 ml Espresso",
+        "150 ml Milch",
+        "1 EL Kakaopulver",
+        "1 Messlöffel Proteinpulver (Schoko oder Haselnuss)",
+        "1 TL gehackte Haselnüsse"
+      ],
+      "instructions": "1. Espresso zubereiten.\n2. Milch mit Proteinpulver und Kakaopulver im Shaker oder Mixer vermischen.\n3. Mischung leicht erwärmen und aufschäumen.\n4. In ein Glas gießen und Espresso hinzufügen.\n5. Mit Haselnüssen bestreuen – perfekt nach dem Training.",
+      "image": "https://imgur.com/Hm7jOcY.jpg"
     }
   ]
 }
